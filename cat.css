@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+
+.btns{
+    margin: 10px;
+}
+
+#btn_on,#btn_off{
+   height: 40px;
+   width: 70px;
+   border: 2px solid black;
+   border-radius: 10px;
+   color:black;
+   background-color: rgba(4, 91, 112, 0.103);
+   
+
+}   
+
+
+.img{
+    height: 300px;
+    width: 400px;
+    border-radius: 20%;
+}
+
